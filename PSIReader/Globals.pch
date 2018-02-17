@@ -1,0 +1,10 @@
+//
+//  Globals.pch
+//  PSIReader
+//
+//  Created by AyeChan PyaeSone on 17/2/18.
+//  Copyright © 2018 acps. All rights reserved.
+//
+
+#import <Obfuscator/Obfuscator.h>
+#import "Keys.h"

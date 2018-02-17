@@ -1,0 +1,20 @@
+PODS:
+  - CustomIOSAlertView (0.9.5)
+  - Obfuscator (2.0.0)
+  - Realm (3.1.1):
+    - Realm/Headers (= 3.1.1)
+  - Realm/Headers (3.1.1)
+
+DEPENDENCIES:
+  - CustomIOSAlertView
+  - Obfuscator (~> 2.0)
+  - Realm
+
+SPEC CHECKSUMS:
+  CustomIOSAlertView: cc4fa8e36219be3fd5ebcd40789f5b4aaae0f38e
+  Obfuscator: 9573f662415f048c1de91f99aa10626dd50e5007
+  Realm: 42d1c38a5b1bbcc828b48a7ce702cb86fc68adf4
+
+PODFILE CHECKSUM: 657d0f52ad26ab345b3117ee2f17d4c5f9cf2309
+
+COCOAPODS: 1.4.0
